@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/2016%20study/2018/P3/P15/P15/P15/FiveChessInARow/src/com/test/fiveinarow/GameController.java</file>
+            <file>file:/D:/2016%20study/2018/P3/P15/P15/P15/FiveChessInARow/src/com/test/fiveinarow/pojo/Players.java</file>
+            <file>file:/D:/2016%20study/2018/P3/P15/P15/P15/FiveChessInARow/src/com/test/fiveinarow/db/DBHelper.java</file>
+            <file>file:/D:/2016%20study/2018/P3/P15/P15/P15/FiveChessInARow/src/com/test/fiveinarow/gui/ChessBoard.java</file>
+            <file>file:/D:/2016%20study/2018/P3/P15/P15/P15/FiveChessInARow/test/GameControllerTest/GameControllerTest.java</file>
+            <file>file:/D:/2016%20study/2018/P3/P15/P15/P15/FiveChessInARow/src/com/test/fiveinarow/pojo/GameStep.java</file>
+            <file>file:/D:/2016%20study/2018/P3/P15/P15/P15/FiveChessInARow/src/com/test/fiveinarow/GameStart.java</file>
+            <file>file:/D:/2016%20study/2018/P3/P15/P15/P15/FiveChessInARow/src/com/test/fiveinarow/db/PlayerScoreManager.java</file>
+            <file>file:/D:/2016%20study/2018/P3/P15/P15/P15/FiveChessInARow/src/com/test/fiveinarow/gui/GameGUI.java</file>
+            <file>file:/D:/2016%20study/2018/P3/P15/P15/P15/FiveChessInARow/src/com/test/fiveinarow/db/GameStepManager.java</file>
+            <file>file:/D:/2016%20study/2018/P3/P15/P15/P15/FiveChessInARow/src/com/test/fiveinarow/pojo/PlayerScore.java</file>
+        </group>
+    </open-files>
+</project-private>
